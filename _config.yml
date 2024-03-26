@@ -21,12 +21,10 @@
 title: Darren Hill Consulting Inc.
 email: darren@darrenhillconsulting.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Explore our website to discover how we can elevate your business with expert NetSuite consulting services. Whether you're seeking assistance with ERP implementation, financial management, CRM optimization, or e-commerce solutions, Darren Hill Consulting Inc. is your trusted partner for unlocking the power of NetSuite.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: darrenhillconsulting
+twitter_username: dhillconsulting
 github_username:  darrenhillconsulting
 
 # Build settings
