@@ -19,18 +19,30 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Darren Hill Consulting Inc.
-email: darren@darrenhillconsulting.ca
+author:
+  name: Darren Hill
+  email: "darren@darrenhillconsulting.ca"
+
 description: >- # this means to ignore newlines until "baseurl:"
   Explore our website to discover how we can elevate your business with expert NetSuite consulting services. Whether you're seeking assistance with ERP implementation, financial management, CRM optimization, or e-commerce solutions, Darren Hill Consulting Inc. is your trusted partner for unlocking the power of NetSuite.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dhillconsulting
-github_username:  darrenhillconsulting
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: solarized
+  social_links:
+    - { platform: github,  user_url: "https://github.com/darrenhillconsulting" }
+    - { platform: twitter, user_url: "https://twitter.com/dhillconsulting" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/darrenthill/" }
+    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/5389329/darren-hill" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
