@@ -4,3 +4,4 @@
 
 layout: home
 ---
+A NetSuite development specialist, focusing on automations, customizations, and integrations. With expertise in leveraging NetSuite's capabilities, Darren designs tailored solutions to streamline operations and drive efficiency for businesses.
