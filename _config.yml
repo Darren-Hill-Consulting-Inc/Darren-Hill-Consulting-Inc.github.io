@@ -44,7 +44,7 @@ minima:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/darrenthill/" }
     - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/5389329/darren-hill" }
 
-google_analytics: G-4YH43558YS
+google_analytics: GT-WK2RRBX8
 
 # Exclude from processing.
 # The following items will not be processed, by default.
